@@ -1,3 +1,3 @@
 # codelearn-C-solve
 
-just solve and solve lol
+C++ problem solve (just read the file for more details)
